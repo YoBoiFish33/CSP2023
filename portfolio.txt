@@ -1,0 +1,33 @@
+<!doctype html>
+	<html lang="en">
+	  <head>
+	    <meta charset="utf-8">
+	    <title>Portfolio</title>
+	  </head>
+	  <body bgcolor="#FF8533">
+    <a href="index.html">Home</a>
+    <a href="portfolio.html">Portfolio</a>
+    <a href="aboutme.html">About Me</a>
+    <h1><center>This is my Portfolio Page!</h1></center>
+   <center> <img src="images/Spongebob.JPG" height="250"></center>
+    <br>
+    <h1> <center>  Minion Tic Tac Toe Project.</h1>
+   <center> <img src="images/MINION.png"><center>
+    <br>The game we created is a very universal game of Tic Tac Toe but with a Minions theme. You will either be using an O or an X against one of your friends. Click on the square you want to place your shape.  Be competitive and have fun! We met the requirements by creating loops for the X's/O'S and animated the drawing board.
+
+    <h1> <center>  NASCAR race game project.</h1></center>
+    <center> <img src="images/Track.PNG"><center>
+    <h1> <center>  Interactive Fiction Rags to Riches.</h1></center>
+    <br>The game we created is a NASCAR game where you will use the arrow keys ti move the car around the track in 30 secs as fast as you can. Trr\y your best and have fun! We met the requirements by having a timer and a car that moves around the track.
+    <br>
+    <h1> <center>  Black Jack game written in Python.</h1></center>
+    <br>
+    <h1> <center>  Modified bits in pictures.</h1></center>
+    <br>
+    <h1> <center>  Use data files to create graphs.</h1></center>
+    <br>
+    <h1>  <center> Using netlogo do remix of illusions.</h1></center>
+    <h1>  <center> Interactive Fiction Rags to Riches.</h1></center>
+    <br>
+	  </body>
+	</html>
